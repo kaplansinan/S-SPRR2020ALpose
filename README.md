@@ -7,5 +7,5 @@ The files presented here are as part of  our submitted paper to [S+SSPR 2020](ht
 
 ## ALgorithm
 The implemented AL strategy is demonstrated in the following algorithm.
-![GANImages](figures/generated_gan_shuffle.png)
+![GANImages](figures/algo.pdf)
 
