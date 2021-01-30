@@ -9,6 +9,12 @@ The files presented here are as part of  our submitted paper to [S+SSPR 2020](ht
   <img src="figures/AL_procedure_v4.png" alt="Overview"/>
 </p>
 
+<a href="https://kaplansinan.github.io/" target="_top">Presentation</a>
+
+<a href="https://youtu.be/UL5rTi0uraU" target="_top">Youtube Video</a>
+
+
+
 
 ## Algorithm
 The implemented AL strategy is demonstrated in the following algorithm.
